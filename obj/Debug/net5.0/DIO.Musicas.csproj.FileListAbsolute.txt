@@ -1,0 +1,16 @@
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.exe
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.deps.json
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.runtimeconfig.json
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.runtimeconfig.dev.json
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.dll
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\bin\Debug\net5.0\ref\DIO.Musicas.dll
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.pdb
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.csproj.AssemblyReference.cache
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.AssemblyInfoInputs.cache
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.AssemblyInfo.cs
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.csproj.CoreCompileInputs.cache
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.dll
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\ref\DIO.Musicas.dll
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.pdb
+C:\Users\macs\OneDrive\Documentos\DigitalOne\musica_dio-dotnet-poo-lab-2-master\musica_dotnet\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.genruntimeconfig.cache
